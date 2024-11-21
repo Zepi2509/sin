@@ -1,4 +1,4 @@
-# Labor 4 - Netzwerk Exploits
+# Labor 4
 ## 1. Internes Netzwerk aufsetzen
 **VirtualBox**: `Tools > Network > NAT Networks > Create`
 
